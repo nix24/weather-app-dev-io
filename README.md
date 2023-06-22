@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{Weather App Dev-io}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://weather-app-dev-io.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/VvgY2E5Gjx6HnEq2I2ao">
       Solution
     </a>
     <span> | </span>
@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
@@ -37,28 +37,30 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+This is a weather application built with SvelteKit. You can see the demo [here](https://weather-app-dev-io.vercel.app/).
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+Building this project helped me improve my skills in working with APIs greatly and handling asynchronous operations in Svelte. I also learned how to use SvelteKit's method of sharing data to the page and how ssr and csr work as a whole.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+Overall, even though I am still learning, I am deeply proud of myself of being able to complete this project and learn many new technologies while doing so.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [SvelteKit](https://kit.svelte.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/mM1UIenRhK808W8qmLWv) was to build an application to complete the given user stories.
+
+This application allows you to:
+
+- View weather information for a specific area, city, state, or country
+- Search for a specific location to view its daily weather information inluding UV index, Wind speed, direction, sunrise, and sunset
+- View weather information for your current location with a click of a button
 
 ## How To Use
 
@@ -79,7 +81,9 @@ $ npm start
 
 ## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
+- SvelteKit (https://kit.svelte.dev)
+- Tailwind CSS (https://tailwindcss.com)
+- Open-Meteo API (https://open-mateo.com)
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Node.js](https://nodejs.org/)
@@ -87,6 +91,5 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- LinkedIn [Jaylon Carrington](https://www.linkedin.com/in/jaylon-carrington-07b924211/)
+- GitHub [@nix24](https://github.com/nix24)

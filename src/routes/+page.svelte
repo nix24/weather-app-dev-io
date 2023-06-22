@@ -92,6 +92,14 @@
 	};
 </script>
 
+<svelte:head>
+	<title>Weather App</title>
+	<meta name="description" content="Weather App for devio challenge" />
+	<meta name="keywords" content="weather, app, devio, challenge" />
+	<meta name="author" content="Jaylon nyx24" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</svelte:head>
+
 <div class="bg-base-100 flex md:flex-row flex-col">
 	<!--div 1, mobile: place btns on opposite ends-->
 	<div class="bg-base-200 md:w-1/2 p-4">
